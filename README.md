@@ -2,6 +2,8 @@
 
 ## Motivation
 
+Llama2 is pretty bad at german
+
 Llama2 pretraining (source: https://arxiv.org/pdf/2307.09288.pdf):
 
 - Pretrained on 2 trillion tokens
