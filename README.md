@@ -147,23 +147,23 @@ accelerate launch scripts/finetune.py relora.yml
 ### wandb
 
 #### loss
-![](https://github.com/geronimi73/ReLoRA_trial/blob/main/img/wandb_loss.png?raw=True)
+<img src="https://github.com/geronimi73/ReLoRA_trial/blob/main/img/wandb_loss.png?raw=True" width="50%" >
 
 #### LR
-![](https://github.com/geronimi73/ReLoRA_trial/blob/main/img/wandb_lr-restarts.png?raw=True)
+<img src="https://github.com/geronimi73/ReLoRA_trial/blob/main/img/wandb_lr-restarts.png?raw=True" width="50%" >
 
 ### Performance of ReLoRA-trained model
 
 llama-13b used as control
 
 #### Perplexity
-![](https://github.com/geronimi73/ReLoRA_trial/blob/main/img/f1.png?raw=True)
+<img src="https://github.com/geronimi73/ReLoRA_trial/blob/main/img/f1.png?raw=True" width="50%" >
 
 #### SacreBleu
-![](https://github.com/geronimi73/ReLoRA_trial/blob/main/img/f2.png?raw=True)
+<img src="https://github.com/geronimi73/ReLoRA_trial/blob/main/img/f2.png?raw=True" width="50%" >
 
 #### Belebele
-![](https://github.com/geronimi73/ReLoRA_trial/blob/main/img/f3.png?raw=True)
+<img src="https://github.com/geronimi73/ReLoRA_trial/blob/main/img/f3.png?raw=True" width="50%" >
 
 
 
