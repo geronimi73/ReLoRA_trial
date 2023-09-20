@@ -1,0 +1,62 @@
+[
+    {
+        "model": "/home/g/models/llama-2-7b-relora-final",
+        "dataset": "wikitext",
+        "dataset_stats": {
+            "rows": 4358,
+            "chars": 1294336,
+            "tokens": 341469
+        },
+        "ppl": 4.979396820068359
+    },
+    {
+        "model": "/home/g/models/llama-2-7b-relora-final",
+        "dataset": "wikipedia_de_unseen",
+        "dataset_stats": {
+            "rows": 500,
+            "chars": 1356753,
+            "tokens": 350000
+        },
+        "ppl": 4.002633094787598
+    },
+    {
+        "model": "/home/g/models/llama-2-7b-relora-final",
+        "dataset": "wikipedia_de_seen",
+        "dataset_stats": {
+            "rows": 500,
+            "chars": 1934565,
+            "tokens": 350000
+        },
+        "ppl": 4.431583404541016
+    },
+    {
+        "model": "/home/g/models/llama-2-7b",
+        "dataset": "wikitext",
+        "dataset_stats": {
+            "rows": 4358,
+            "chars": 1294336,
+            "tokens": 341469
+        },
+        "ppl": 4.77445125579834
+    },
+    {
+        "model": "/home/g/models/llama-2-7b",
+        "dataset": "wikipedia_de_unseen",
+        "dataset_stats": {
+            "rows": 500,
+            "chars": 1356753,
+            "tokens": 350000
+        },
+        "ppl": 4.155862331390381
+    },
+    {
+        "model": "/home/g/models/llama-2-7b",
+        "dataset": "wikipedia_de_seen",
+        "dataset_stats": {
+            "rows": 500,
+            "chars": 1934565,
+            "tokens": 350000
+        },
+        "ppl": 4.655613422393799
+    }
+]

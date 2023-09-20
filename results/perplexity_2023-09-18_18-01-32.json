@@ -1,0 +1,32 @@
+[
+    {
+        "model": "/home/g/models/llama-2-13b",
+        "dataset": "wikitext",
+        "dataset_stats": {
+            "rows": 4358,
+            "chars": 1294336,
+            "tokens": 341469
+        },
+        "ppl": 4.41983699798584
+    },
+    {
+        "model": "/home/g/models/llama-2-13b",
+        "dataset": "wikipedia_de_unseen",
+        "dataset_stats": {
+            "rows": 500,
+            "chars": 1356753,
+            "tokens": 350000
+        },
+        "ppl": 3.9248130321502686
+    },
+    {
+        "model": "/home/g/models/llama-2-13b",
+        "dataset": "wikipedia_de_seen",
+        "dataset_stats": {
+            "rows": 500,
+            "chars": 1934565,
+            "tokens": 350000
+        },
+        "ppl": 4.384485721588135
+    }
+]
